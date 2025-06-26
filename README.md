@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm a Code-Driven Biologist
+# Hi there! 👋 I'm Engki Nandatama
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Code+the+invisible.;Decode+the+impossible.;Biology+%2B+Technology+%3D+Innovation" alt="Typing SVG" />

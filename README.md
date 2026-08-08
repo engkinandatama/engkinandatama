@@ -29,22 +29,6 @@ class ComputationalBiologist:
 
 ---
 
-## Focus Areas
-
-### Research
-*Understanding biological systems through computation, genomics, and spatial analytics (GIS).*
-
-### Engineering
-*Building open-source software, workflows, data pipelines, and web tools for scientific discovery.*
-
-### Writing
-*Science communication, research notes, and technical articles bridging lab bench and digital innovation.*
-
-### The Scientist's Eyes
-*Visual observations, field notes, and spatial insights from biological and environmental research.*
-
----
-
 ## Tech Stack & Tools
 
 ### Core & Scripting

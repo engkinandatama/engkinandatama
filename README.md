@@ -29,7 +29,7 @@ class ComputationalBiologist:
 
 ---
 
-## Portfolio Pillars & Featured Projects
+## Focus Areas & Selected Projects
 
 ### Research
 *Understanding biological systems through computation and spatial data.*

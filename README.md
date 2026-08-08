@@ -101,7 +101,7 @@ graph LR
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/engkinandatama)\
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-7308-3900)&nbsp;&nbsp;
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=TZZ4T2kAAAAJ&hl)&nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/Email-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:engkinandatama@outlook.com)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTIwIDRINGMtMS4xIDAtMS45OS45LTEuOTkgMUwyIDE4YzAgMS4xLjkgMiAyIDJoMTZjMS4xIDAgMi0uOSAyLTJWMmMwLTEuMS0uOS0yLTItMnptMCAxNGg0VjhsLTggNWwtOC01djEwbDE2IDB6bTAtMTJsLTggNWwtOC01aDE2eiIvPjwvc3ZnPg==&logoColor=white)](mailto:engkinandatama@outlook.com)
 
 </div>
 

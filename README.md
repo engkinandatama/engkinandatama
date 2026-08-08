@@ -72,10 +72,31 @@ class ComputationalBiologist:
 ## Core Focus & Methodology
 
 ```mermaid
-graph TD
-    P1["Research<br/>Genomics & Spatial Analytics"] --> P2["Engineering<br/>Scientific Workflows, Pipelines & Web Tools"]
-    P2 --> P3["Writing<br/>Science Communication & Technical Articles"]
-    P3 --> P4["The Scientist's Eyes<br/>Field Photography & Visual Documentation"]
+graph LR
+    Root["Root: Engki Nandatama"] --- P1["Research"]
+    Root --- P2["Engineering"]
+    Root --- P3["Writing"]
+    Root --- P4["The Scientist's Eyes"]
+
+    %% Branch 1: Research
+    P1 --- R_Idea1["Genomics & Diagnostics"]
+    P1 --- R_Idea2["Spatial Analytics (GIS)"]
+    R_Idea1 --> R_Exec1["RAA Primers · AMR · Mutation Maps"]
+    R_Idea2 --> R_Exec2["Flood & Deforestation Remote Sensing"]
+
+    %% Branch 2: Engineering
+    P2 --- E_Idea1["Scientific Workflows"]
+    P2 --- E_Idea2["Web Systems & Tools"]
+    E_Idea1 --> E_Exec1["Nextflow 16S · Snakemake"]
+    E_Idea2 --> E_Exec2["Astro · Next.js · FastAPI · Prisma"]
+
+    %% Branch 3: Writing
+    P3 --- W_Idea1["Science Communication"]
+    W_Idea1 --> W_Exec1["Research Notes & Technical Articles"]
+
+    %% Branch 4: The Scientist's Eyes
+    P4 --- S_Idea1["Field Documentation"]
+    S_Idea1 --> S_Exec1["Visual Insights & Photography"]
 ```
 
 ---

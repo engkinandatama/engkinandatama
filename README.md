@@ -1,41 +1,55 @@
 # Engki Nandatama
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Code+the+invisible.;Decode+the+impossible.;Biology+%2B+Technology+%3D+Innovation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=450&lines=Code+the+invisible.;Decode+the+impossible.;Biology+%2B+Technology+%3D+Innovation;Observe.+Understand.+Build.+Share." alt="Typing SVG" />
 </div>
 
 ---
 
 ## About Me
 
-Life sciences enthusiast with a **background in biology** and a growing passion for bridging the gap between **lab bench and digital innovation**. I'm on an exciting journey exploring how technology can revolutionize scientific research and quality systems.
+Computational biologist & research engineer based in Yogyakarta, Indonesia. I study biological systems, build computational tools for genomics and diagnostics, and communicate science.
 
 ```python
-class CodeDrivenBiologist:
+class ComputationalBiologist:
     def __init__(self):
-        self.background = "Biology Graduate"
-        self.tagline = "A Code-Driven Biologist"
-        self.interests = ["Bioinformatics", "Data Science", "Lab Automation", "QA/QC Systems"]
-        self.current_focus = "Integrating technology in life sciences"
-        self.motto = "Code the invisible. Decode the impossible."
+        self.name = "Engki Nandatama"
+        self.role = "Computational Biologist & Research Engineer"
+        self.location = "Yogyakarta, Indonesia"
+        self.pillars = ["Research", "Engineering", "Writing", "The Scientist's Eyes"]
+        self.motto = "Observe. Understand. Build. Share."
     
-    def current_journey(self):
-        return "Learning Python & exploring computational biology"
+    def current_focus(self):
+        return [
+            "Genomics & Molecular Diagnostics Tools",
+            "Spatial Analytics & Environmental Modeling (GIS)",
+            "Automated Scientific Workflows & Data Pipelines"
+        ]
 ```
 
 ---
 
-## What I Do
+## Portfolio Pillars & Featured Projects
 
-- **Bio & Spatial Analytics**: Leveraging Data Science (ML) and GIS to solve complex biological and environmental challenges.
-- **Modern Web Apps**: Building ultra-fast, scientific, and interactive portals using React, Next.js, and Astro.
-- **Lab & Task Automation**: Developing robust workflow automations to streamline repetitive laboratory and data pipelines.
-- **Bioinformatics Research**: Conducting *in-silico* studies like Molecular Dynamics (MD) simulations and Network Pharmacology.
-- **QA/QC Systems**: Architecting digital traceability and quality management solutions for lab ecosystems.
+### 🔬 Research
+*Understanding biological systems through computation and spatial data.*
+- **Genomics & Diagnostics**: RAA primer design for Influenza & AMR gene mobility analysis (`primerlab-genomic`, `AMR-gene-mobility`, `cre-mutation-map`).
+- **Spatial Analytics (GIS)**: Flood mapping, deforestation, and tenure fire dynamics in Sumatra (`sumatra-flood-deforestation`, `sumatra-fire-tenure`).
+
+### ⚙️ Engineering
+*Building open-source software, pipelines, and automations for scientific discovery.*
+- **Scientific Pipelines**: Nextflow nanopore 16S workflows (`wf-nanopore-16s-nextflow`, `txmineflow`).
+- **Web & Tooling Infrastructure**: Web platforms and automation suites (`portfolio-2`, `studio-hub`, `core-studio`, `nimbus-render`, `ArthaFlow`).
+
+### ✍️ Writing
+*Science communication, research notes, and technical articles bridging lab bench and digital innovation.*
+
+### 👁️ The Scientist's Eyes
+*Visual observations, field notes, and spatial insights from biological and environmental research.*
 
 ---
 
-## Tech Stack & Learning Journey
+## Tech Stack & Tools
 
 ### Core & Scripting
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -66,27 +80,24 @@ class CodeDrivenBiologist:
 
 ---
 
-## Current Focus Areas
+## Core Focus & Methodology
 
 ```mermaid
-graph LR
-    A[Biology Background] --> B[Data Science & Python]
+graph TD
+    Root[Biology + Technology] --> Observe[Observe & Understand]
+    Root --> Build[Build & Share]
     
-    %% Bioinformatics Path
-    B --> C[Bioinformatics]
-    C --> D[MD Simulations & Phylogeny]
-    C --> N[Network Pharmacology]
+    Observe --> Pilar1[Microscope / Research]
+    Observe --> Pilar4[Scientist's Eyes]
     
-    %% ML & GIS Path
-    B --> M[Machine Learning & AI]
-    M --> O[Spatial Analysis & GIS]
+    Pilar1 --> R1[Genomics & Molecular Diagnostics]
+    Pilar1 --> R2[Spatial Analytics & GIS]
     
-    %% Web Development Path
-    B --> E[Lab & Task Automation]
-    E --> F[Smart Science Solutions]
+    Build --> Pilar2[Gear / Engineering]
+    Build --> Pilar3[Pen / Writing]
     
-    G[Web Development] --> H[Modern Stack <br/> Next.js / Astro]
-    H --> I[Automated Web Apps]
+    Pilar2 --> E1[Pipelines & Workflows]
+    Pilar2 --> E2[Scientific Web Tools]
 ```
 
 ---
@@ -108,5 +119,6 @@ graph LR
 ---
 
 <div align="center">
-  <em>"Where biology meets bytes, innovation begins."</em>
+  <em>"Observe. Understand. Build. Share."</em>
 </div>
+

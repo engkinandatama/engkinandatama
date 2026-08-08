@@ -31,20 +31,20 @@ class ComputationalBiologist:
 
 ## Portfolio Pillars & Featured Projects
 
-### 🔬 Research
+### Research
 *Understanding biological systems through computation and spatial data.*
 - **Genomics & Diagnostics**: RAA primer design for Influenza & AMR gene mobility analysis (`primerlab-genomic`, `AMR-gene-mobility`, `cre-mutation-map`).
 - **Spatial Analytics (GIS)**: Flood mapping, deforestation, and tenure fire dynamics in Sumatra (`sumatra-flood-deforestation`, `sumatra-fire-tenure`).
 
-### ⚙️ Engineering
+### Engineering
 *Building open-source software, pipelines, and automations for scientific discovery.*
 - **Scientific Pipelines**: Nextflow nanopore 16S workflows (`wf-nanopore-16s-nextflow`, `txmineflow`).
 - **Web & Tooling Infrastructure**: Web platforms and automation suites (`portfolio-2`, `studio-hub`, `core-studio`, `nimbus-render`, `ArthaFlow`).
 
-### ✍️ Writing
+### Writing
 *Science communication, research notes, and technical articles bridging lab bench and digital innovation.*
 
-### 👁️ The Scientist's Eyes
+### The Scientist's Eyes
 *Visual observations, field notes, and spatial insights from biological and environmental research.*
 
 ---

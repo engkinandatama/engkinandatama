@@ -72,30 +72,10 @@ class ComputationalBiologist:
 ## Core Focus & Methodology
 
 ```mermaid
-graph LR
-    subgraph P1["Research"]
-        direction TB
-        R1["Genomics & Diagnostics<br/><i>RAA Primers · AMR · Mutation Maps</i>"]
-        R2["Spatial Analytics & GIS<br/><i>Flood · Deforestation · Remote Sensing</i>"]
-    end
-
-    subgraph P2["Engineering"]
-        direction TB
-        E1["Workflows & Pipelines<br/><i>Nextflow 16S · Snakemake Pipelines</i>"]
-        E2["Web & Tooling Systems<br/><i>Astro · Next.js · FastAPI · Prisma</i>"]
-    end
-
-    subgraph P3["Writing"]
-        direction TB
-        W1["Science Communication<br/><i>Research Notes · Technical Articles</i>"]
-    end
-
-    subgraph P4["The Scientist's Eyes"]
-        direction TB
-        S1["Visual Insights<br/><i>Field Photography · Visual Documentation</i>"]
-    end
-
-    P1 ==> P2 ==> P3 ==> P4
+graph TD
+    P1["Research<br/>Genomics & Spatial Analytics"] --> P2["Engineering<br/>Scientific Workflows, Pipelines & Web Tools"]
+    P2 --> P3["Writing<br/>Science Communication & Technical Articles"]
+    P3 --> P4["The Scientist's Eyes<br/>Field Photography & Visual Documentation"]
 ```
 
 ---

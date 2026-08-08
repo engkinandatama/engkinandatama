@@ -58,6 +58,7 @@ class ComputationalBiologist:
 
 ### Bioinformatics & Scientific Workflows
 ![Nextflow](https://img.shields.io/badge/Nextflow-02ac9f?style=flat-square&logo=nextflow&logoColor=white)
+![Snakemake](https://img.shields.io/badge/Snakemake-282828?style=flat-square&logo=snakemake&logoColor=white)
 ![Biopython](https://img.shields.io/badge/Biopython-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ### Backend & Infrastructure

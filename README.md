@@ -95,7 +95,7 @@ graph LR
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/engkinandatama)&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTE5IDNINkMzLjMzIDMgMyA1LjMzIDMgOHY4YzAgMi42Ny4zMyA1IDMgNWgxM2MyLjY3IDAgMy0yLjMzIDMtNVY4YzAtMi42Ny0uMzMtNS0zLTV6TTggMTlINVY5aDN2MTB6TTYuNSA3LjdjLS45OCAwLTEuNzUtLzc5LTEuNzUtMS43NVM1LjUyIDQuNSA2LjUgNC41czEuNzUuNzkgMS43NSAxLjc1UzcuNDggNy43IDYuNSA3Ljd6TTE5IDE5aC0zdi01LjVjMC0xLjYzLS4wMy0zLjcxLTIuMjYtMy43MS0yLjI2IDAtMi42IDEuNzctMi42IDMuNlYxOWgzdi01LjVjMC0xLjYzLjAzLTMuNzEgMi4yNi0zLjcxIDIuMjYgMCAyLjYgMS43NyAyLjYgMy42VjE5eiIvPjwvc3ZnPg==&logoColor=white)](https://linkedin.com/in/engkinandatama)&nbsp;&nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=googlechrome&logoColor=white)](https://engkinandatama.my.id)&nbsp;&nbsp;
 [![Behance](https://img.shields.io/badge/Behance-1769FF?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/engkinandatama)&nbsp;&nbsp;
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/engkinandatama)\

@@ -29,17 +29,13 @@ class ComputationalBiologist:
 
 ---
 
-## Focus Areas & Selected Projects
+## Focus Areas
 
 ### Research
-*Understanding biological systems through computation and spatial data.*
-- **Genomics & Diagnostics**: RAA primer design for Influenza & AMR gene mobility analysis (`primerlab-genomic`, `AMR-gene-mobility`, `cre-mutation-map`).
-- **Spatial Analytics (GIS)**: Flood mapping, deforestation, and tenure fire dynamics in Sumatra (`sumatra-flood-deforestation`, `sumatra-fire-tenure`).
+*Understanding biological systems through computation, genomics, and spatial analytics (GIS).*
 
 ### Engineering
-*Building open-source software, pipelines, and automations for scientific discovery.*
-- **Scientific Pipelines**: Nextflow nanopore 16S workflows (`wf-nanopore-16s-nextflow`, `txmineflow`).
-- **Web & Tooling Infrastructure**: Web platforms and automation suites (`portfolio-2`, `studio-hub`, `core-studio`, `nimbus-render`, `ArthaFlow`).
+*Building open-source software, workflows, data pipelines, and web tools for scientific discovery.*
 
 ### Writing
 *Science communication, research notes, and technical articles bridging lab bench and digital innovation.*
